@@ -1,12 +1,8 @@
 ---
 title: 'Your Name'
-website: http://yourwebsite.com
-street: Street address
-city: City
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
+city: Trondheim
+phone: +47 480 92 895
+email: andreasblstd@gmail.com
 ...
 
 ### Personal summary
